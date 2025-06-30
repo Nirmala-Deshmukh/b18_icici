@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./car-inc.component.css']
 })
 export class CarIncComponent {
+  public carDetails:any;
 
 }
